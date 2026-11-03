@@ -1,0 +1,10 @@
+.gcloudignore
+.git
+.gitignore
+.env
+.env.*
+*.env
+*firebase*.json
+__pycache__/
+*.py[cod]
+.pytest_cache/
